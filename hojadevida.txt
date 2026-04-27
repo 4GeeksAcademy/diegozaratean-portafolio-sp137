@@ -1,4 +1,5 @@
-las tecnoligas que uso son:esto es una prubea
+las tecnoligas que uso son:
 
 html
 css
+git
