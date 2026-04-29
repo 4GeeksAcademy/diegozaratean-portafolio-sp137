@@ -6,3 +6,4 @@ pagina cliente 2
 pagina cliente 4
 header
 navbar
+footer
