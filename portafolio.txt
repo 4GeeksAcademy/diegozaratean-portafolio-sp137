@@ -8,3 +8,4 @@ header
 navbar
 footer
 slider
+chatbot
