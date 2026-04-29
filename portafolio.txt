@@ -7,3 +7,4 @@ pagina cliente 4
 header
 navbar
 footer
+slider
